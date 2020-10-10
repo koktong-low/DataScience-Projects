@@ -2,7 +2,7 @@
 
 This is a folder of projects I have done in the past:
 
-### Using COVID data to better estimate and project earnings for Taxi companies of NYC
+### ![Using COVID data to better estimate and project earnings for Taxi companies of NYC](https://github.com/koktong-low/DataScience-Projects/tree/main/Covid_vs_Taxi)
 
 COVID has no doubt affected the transport industry, due to this pandemic what was considered reliable projections of revenue from years of data has become rather inaccurate in these times of uncertainty.
 
