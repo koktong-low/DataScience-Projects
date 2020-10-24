@@ -2,6 +2,12 @@
 
 This is a folder of projects I have done in the past:
 
+### Leverage Natrual Language Processing (NLP) for Automated Essay Scoring (AES)
+
+According to Indeed.com a job site, an Australian teacher's average salary is AUD $64.71, and it a 500-1000 word essay takes a teacher around 10 min to read (varies teacher to teacher). So a teacher can go through 6 essays/hour without breaks. In 2019 it was recorded that more than 40,000 students took the VCE (Victorian Certificate of Education) a state level exam in Australia, with 40,000 essays it would take approximately 6667 hours to grade these essays, which equates to AUD $431,400 just to grade essays.
+
+So my team and I used NLP methods such as **BERT-SVR** and **LSTM** to develop an AES to reduce time required to grade essays.
+
 ### ![Using COVID data to better estimate and project earnings for Taxi companies of NYC](https://github.com/koktong-low/DataScience-Projects/tree/main/Covid_vs_Taxi)
 
 COVID has no doubt affected the transport industry, due to this pandemic what was considered reliable projections of revenue from years of data has become rather inaccurate in these times of uncertainty.
