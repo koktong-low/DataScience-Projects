@@ -3,7 +3,7 @@
 This is a folder of projects I have done in the past:
 
 ### ![Share Price Analysis](https://github.com/koktong-low/DataScience-Projects/tree/main/Stocks)
-There are many reasons as to why a share price would go up or down, it could be due to supply and demand, however it is much more complex than that. The goal of this project is to study various factors to see what kind of impact it has on share. Some of the factors we are investigating includes, relevant news, covid data, financial statements, and unemployment rate. We will be utilising skills from previous projects mainly NLP for the news classification, perhaps SVR for creating a predictive model. The data are web scraped from yahoo finance, and the COVID-19 Data are from https://github.com/owid/covid-19-data/tree/master/public/data . 
+There are many reasons as to why a share price would go up or down, it could be due to supply and demand, however it is much more complex than that. The goal of this project is to study various factors to see what kind of impact it has on share. Some of the factors we are investigating includes, relevant news, covid data, financial statements, and unemployment rate. We will be utilising skills from previous projects mainly NLP for the news classification, SVR for creating a predictive model, we would explore some deep learning to see if it is suitable as well. The data are web scraped from yahoo finance, and the COVID-19 Data are from https://github.com/owid/covid-19-data/tree/master/public/data . 
 
 ### Leverage Natrual Language Processing (NLP) for Automated Essay Scoring (AES)
 
