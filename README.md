@@ -18,6 +18,7 @@ COVID has no doubt affected the transport industry, due to this pandemic what wa
 ![Revenue & COVID Choropleth](/Covid_vs_Taxi/images/choropleth.png)
 
 
+##### Download Interactive Map
 ![Revenue Choropleth](/Covid_vs_Taxi/Total_AmountChoroplethMap.html)
 
 ![COVID Choropleth](/Covid_vs_Taxi/CovidChoroplethMap.html)
