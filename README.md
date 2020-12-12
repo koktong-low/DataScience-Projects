@@ -13,11 +13,16 @@ So my team and I used NLP methods such as **BERT-SVR** and **LSTM** to develop a
 
 ### ![Using COVID data to better estimate and project earnings for Taxi companies of NYC](https://github.com/koktong-low/DataScience-Projects/tree/main/Covid_vs_Taxi)
 
-COVID has no doubt affected the transport industry, due to this pandemic what was considered reliable projections of revenue from years of data has become rather inaccurate in these times of uncertainty. The following are the Geospatial visuialisations of COVID cases and revenue of NYC taxi
+COVID has no doubt affected the transport industry, due to this pandemic what was considered reliable projections of revenue from years of data has become rather inaccurate in these times of uncertainty. The following are the Geospatial visuialisations of Revenue and COVID cases of NYC taxi.
+
+![Revenue & COVID Choropleth](/Covid_vs_Taxi/images/choropleth.png)
+
+
+![Revenue Choropleth](/Covid_vs_Taxi/Total_AmountChoroplethMap.html)
 
 ![COVID Choropleth](/Covid_vs_Taxi/CovidChoroplethMap.html)
 
-![Revenue Choropleth](/Covid_vs_Taxi/Total_AmountChoroplethMap.html)
+
 
 
 #### Key models used
